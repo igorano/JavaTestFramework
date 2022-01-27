@@ -1,6 +1,9 @@
 # Default ignored files
 debug.log
 .idea/
+api/target
+ui/target
+common-utils/target
 
 # Binaries
 *.7z
@@ -24,7 +27,3 @@ test-output/
 *.iws
 *.ipr
 
-# Ingore target directories
-api/target
-ui/target
-common-utils/target
