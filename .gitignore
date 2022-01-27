@@ -23,3 +23,8 @@ test-output/
 *.iml
 *.iws
 *.ipr
+
+# Ingore target directories
+api/target
+ui/target
+common-utils/target
