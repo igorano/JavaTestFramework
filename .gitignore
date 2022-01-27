@@ -1,5 +1,6 @@
 # Default ignored files
 debug.log
+.idea/
 
 # Binaries
 *.7z
@@ -22,4 +23,3 @@ test-output/
 *.iml
 *.iws
 *.ipr
-.idea/
