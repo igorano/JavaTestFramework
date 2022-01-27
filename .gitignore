@@ -1,0 +1,26 @@
+# Default ignored files
+/.idea/workspace.xml
+debug.log
+
+# Binaries
+*.7z
+*.dmg
+*.gz
+*.iso
+*.rar
+*.tar
+*.zip
+*.war
+*.ear
+*.sar
+*.class
+
+# Maven
+target/
+test-output/
+
+# IntelliJ project files
+*.iml
+*.iws
+*.ipr
+.idea/
